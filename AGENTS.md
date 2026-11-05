@@ -1,7 +1,5 @@
 # AGENTS.md
 
-An opinionated guide to the best Python frameworks, libraries, and tools.
-
 [README.md](README.md) is the source of truth for entries, and `website/data/category_intros/` holds the category page intros; `website/` renders both into [awesome-python.com](https://awesome-python.com/).
 
 ## Entry Rules
